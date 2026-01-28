@@ -5,7 +5,6 @@
   <a href="https://solved.ac/woominyo">
     <img src="https://img.shields.io/badge/Solved.ac-woominyo-181717?style=flat-square&logo=solved.ac&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173">
     <img src="https://img.shields.io/badge/Paper-DBpia-181717?style=flat-square&logo=googlescholar&logoColor=white"/>
   </a>
