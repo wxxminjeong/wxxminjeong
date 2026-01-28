@@ -12,15 +12,11 @@
 
   <br/><br/>
 
-
-
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wxxminjeong&utm_content=line">
     <img
       src="https://render.gitanimals.org/lines/wxxminjeong?pet-id=789414730985988887"
-      width="200"
-      height="200"
+      width="200" height="200"
     />
   </a>
-  
   
 </div>
