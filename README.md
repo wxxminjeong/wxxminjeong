@@ -7,11 +7,6 @@
   <a href="https://www.kaggle.com/woominyo"><img src="https://img.shields.io/badge/Kaggle-woominyo-181717?style=flat-square&logo=kaggle&logoColor=white"/></a>
   <br/><br/>
   
-  <a href="https://www.kaggle.com/woominyo">
-    <img src="https://kaggle-readme-stats.vercel.app/api?username=woominyo" alt="Kaggle Profile Card" height="150" />
-  </a>
-  <br/><br/>
-  
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wxxminjeong&utm_content=line">
     <img src="https://render.gitanimals.org/lines/wxxminjeong?pet-id=789414730985988887" width="200" height="200" />
   </a>
