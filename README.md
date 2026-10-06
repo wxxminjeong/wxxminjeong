@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://dacon.io/competitions/official/236767/overview/description"><strong>LG Aimers · 9th Cohort</strong></a>
+        <a href="https://dacon.io/competitions/official/236767/overview/description"><strong>Aimers 9기 : 투구 제구 성공 확률 예측 AI 오프라인 해커톤</strong></a>
         <br />
         <sub>Phase 3 · Offline Hackathon</sub>
       </td>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://dacon.io/competitions/official/236743/overview/description"><strong>LG Aimers · 9th Cohort</strong></a>
+        <a href="https://dacon.io/competitions/official/236743/overview/description"><strong>Aimers 9기 : 투구 제구 성공 확률 예측 AI 온라인 해커톤</strong></a>
         <br />
         <sub>Phase 2 · Online Qualifier</sub>
       </td>
