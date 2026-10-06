@@ -5,10 +5,18 @@
   <p><sub>정우민</sub></p>
   <p><samp>Machine Learning · Side Projects</samp></p>
 
+  <p>
+    <a href="https://www.kaggle.com/woominyo">Kaggle</a>
+    &nbsp;·&nbsp;
+    <a href="https://dacon.io/myprofile/462812/home">DACON</a>
+    &nbsp;·&nbsp;
+    <a href="https://solved.ac/woominyo">Solved.ac</a>
+  </p>
+
   <br />
 </div>
 
-### Competition Highlights
+### Competitions
 
 <table>
   <thead>
@@ -20,67 +28,44 @@
   <tbody>
     <tr>
       <td width="600">
-        <a href="https://aifactory.space/ko/competitions/9305"><strong>2026 국립공원 위성 모니터링 AI 챌린지</strong></a>
+        <a href="https://aifactory.space/ko/competitions/9305"><strong>2026 National Park Satellite Monitoring AI Challenge</strong></a>
         <br />
-        <sub>주제 2 · 산사태 붕괴지 탐지 및 위험도 분석</sub>
+        <sub>Track 2 · Landslide Detection and Risk Assessment</sub>
       </td>
-      <td align="center" width="90"><strong>🥈 2위</strong></td>
+      <td align="center" width="90"><strong>🥈 2nd</strong></td>
     </tr>
     <tr>
       <td>
-        <a href="https://dacon.io/competitions/official/236767/overview/description"><strong>LG Aimers 9기</strong></a>
+        <a href="https://dacon.io/competitions/official/236767/overview/description"><strong>LG Aimers · 9th Cohort</strong></a>
         <br />
-        <sub>Phase 3 · 오프라인 해커톤</sub>
+        <sub>Phase 3 · Offline Hackathon</sub>
       </td>
-      <td align="center"><strong>18위</strong></td>
+      <td align="center"><strong>18th</strong></td>
     </tr>
     <tr>
       <td>
-        <a href="https://dacon.io/competitions/official/236743/overview/description"><strong>LG Aimers 9기</strong></a>
+        <a href="https://dacon.io/competitions/official/236743/overview/description"><strong>LG Aimers · 9th Cohort</strong></a>
         <br />
-        <sub>Phase 2 · 온라인 예선</sub>
+        <sub>Phase 2 · Online Qualifier</sub>
       </td>
-      <td align="center"><strong>29위</strong></td>
+      <td align="center"><strong>29th</strong></td>
     </tr>
   </tbody>
 </table>
 
 <br />
 
-### Selected Work
+### Publications
 
-<table>
-  <tr>
-    <td width="345" valign="top">
-      <sub>PUBLICATION</sub>
-      <br />
-      <strong>Paper</strong>
-      <br /><br />
-      <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173">Read on DBpia ↗</a>
-    </td>
-    <td width="345" valign="top">
-      <sub>GAME</sub>
-      <br />
-      <strong>Poly Survivor</strong>
-      <br /><br />
-      <a href="https://www.roblox.com/games/97566754394912/Poly-Survivor">Play on Roblox ↗</a>
-    </td>
-  </tr>
-</table>
+**[A Study on Downlink Image Transmission Using Super-Resolution in Low Earth Orbit Satellite Networks](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173)**  
+<sub>KICS Summer Conference · June 2023 · pp. 564–565</sub>
 
 <br />
 
-### Profiles
+### Projects
 
-<div align="center">
-  <p>
-    <a href="https://www.kaggle.com/woominyo">Kaggle</a>
-    &nbsp;·&nbsp;
-    <a href="https://dacon.io/myprofile/462812/home">DACON</a>
-    &nbsp;·&nbsp;
-    <a href="https://solved.ac/woominyo">Solved.ac</a>
-  </p>
-</div>
+**[Poly Survivor](https://www.roblox.com/games/97566754394912/Poly-Survivor)**  
+<sub>Roblox</sub>
 
 <br />
 
