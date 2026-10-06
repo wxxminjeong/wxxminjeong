@@ -1,21 +1,8 @@
 <div align="center">
   <br />
 
-  <h1>woominyo</h1>
-  <p><samp>Machine Learning · Competitions · Side Projects</samp></p>
-
-  <p>
-    <a href="https://www.kaggle.com/woominyo">Kaggle</a>
-    &nbsp;·&nbsp;
-    <a href="https://dacon.io/myprofile/462812/home">DACON</a>
-    &nbsp;·&nbsp;
-    <a href="https://solved.ac/woominyo">Solved.ac</a>
-  </p>
-  <p>
-    <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173">Paper ↗</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.roblox.com/games/97566754394912/Poly-Survivor">Poly Survivor ↗</a>
-  </p>
+  <h2>Woomin Jeong <sub>정우민</sub></h2>
+  <p><samp>Machine Learning · Side Projects</samp></p>
 
   <br />
 </div>
@@ -59,6 +46,25 @@
 
 <br />
 
+### Links
+
+<div align="center">
+  <p>
+    <a href="https://www.kaggle.com/woominyo">Kaggle</a>
+    &nbsp;·&nbsp;
+    <a href="https://dacon.io/myprofile/462812/home">DACON</a>
+    &nbsp;·&nbsp;
+    <a href="https://solved.ac/woominyo">Solved.ac</a>
+  </p>
+  <p>
+    <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173">Paper ↗</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.roblox.com/games/97566754394912/Poly-Survivor">Poly Survivor ↗</a>
+  </p>
+</div>
+
+<br />
+
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&amp;utm_source=wxxminjeong&amp;utm_content=line">
     <img
@@ -68,7 +74,5 @@
       alt="My GitAnimals companion walking across the README"
     />
   </a>
-  <br />
-  <sub>a little company between commits.</sub>
   <br /><br />
 </div>
