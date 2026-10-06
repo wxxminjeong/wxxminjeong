@@ -9,8 +9,6 @@
     <a href="https://www.kaggle.com/woominyo">Kaggle</a>
     &nbsp;·&nbsp;
     <a href="https://dacon.io/myprofile/462812/home">DACON</a>
-    &nbsp;·&nbsp;
-    <a href="https://solved.ac/woominyo">Solved.ac</a>
   </p>
 
   <br />
