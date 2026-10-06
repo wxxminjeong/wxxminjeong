@@ -1,7 +1,8 @@
 <div align="center">
   <br />
 
-  <h2>Woomin Jeong <sub>정우민</sub></h2>
+  <h2>Woomin Jeong</h2>
+  <p><sub>정우민</sub></p>
   <p><samp>Machine Learning · Side Projects</samp></p>
 
   <br />
@@ -27,7 +28,7 @@
     </tr>
     <tr>
       <td>
-        <strong>LG Aimers 9기</strong>
+        <a href="https://dacon.io/competitions/official/236767/overview/description"><strong>LG Aimers 9기</strong></a>
         <br />
         <sub>Phase 3 · 오프라인 해커톤</sub>
       </td>
@@ -35,7 +36,7 @@
     </tr>
     <tr>
       <td>
-        <strong>LG Aimers 9기</strong>
+        <a href="https://dacon.io/competitions/official/236743/overview/description"><strong>LG Aimers 9기</strong></a>
         <br />
         <sub>Phase 2 · 온라인 예선</sub>
       </td>
@@ -46,7 +47,30 @@
 
 <br />
 
-### Links
+### Selected Work
+
+<table>
+  <tr>
+    <td width="345" valign="top">
+      <sub>PUBLICATION</sub>
+      <br />
+      <strong>Paper</strong>
+      <br /><br />
+      <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173">Read on DBpia ↗</a>
+    </td>
+    <td width="345" valign="top">
+      <sub>GAME</sub>
+      <br />
+      <strong>Poly Survivor</strong>
+      <br /><br />
+      <a href="https://www.roblox.com/games/97566754394912/Poly-Survivor">Play on Roblox ↗</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### Profiles
 
 <div align="center">
   <p>
@@ -55,11 +79,6 @@
     <a href="https://dacon.io/myprofile/462812/home">DACON</a>
     &nbsp;·&nbsp;
     <a href="https://solved.ac/woominyo">Solved.ac</a>
-  </p>
-  <p>
-    <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173">Paper ↗</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.roblox.com/games/97566754394912/Poly-Survivor">Poly Survivor ↗</a>
   </p>
 </div>
 
