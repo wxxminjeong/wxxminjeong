@@ -38,7 +38,7 @@
         <br />
         <sub>Kaggle · Private Leaderboard</sub>
       </td>
-      <td align="center"><strong>🥉 3rd / 66</strong></td>
+      <td align="center"><strong>3rd / 66</strong></td>
     </tr>
     <tr>
       <td>
