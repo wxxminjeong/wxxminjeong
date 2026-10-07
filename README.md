@@ -2,7 +2,8 @@
   <br />
 
   <h2>Woomin Jeong</h2>
-  <p><sub>정우민 Hanbat National University</sub></p>
+  <p><sub>정우민  
+    Hanbat National University</sub></p>
   <p><samp>Machine Learning · Side Projects</samp></p>
 
   <p>
