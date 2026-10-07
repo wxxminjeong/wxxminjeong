@@ -3,7 +3,7 @@
 
   <h2>Woomin Jeong</h2>
   <p><sub>정우민<br />Hanbat National University</sub></p>
-  <p><samp>Machine Learning · Side Projects</samp></p>
+  <p><samp>Machine Learning Engineer · AI Research</samp></p>
 
   <p>
     <a href="https://www.kaggle.com/woominyo">Kaggle</a>
