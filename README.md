@@ -20,7 +20,7 @@
   <thead>
     <tr>
       <th align="left">Competition / Stage</th>
-      <th align="center">Rank</th>
+      <th align="center">Rank / Teams</th>
     </tr>
   </thead>
   <tbody>
@@ -30,7 +30,15 @@
         <br />
         <sub>Track 2 · Landslide Detection and Risk Assessment</sub>
       </td>
-      <td align="center" width="90"><strong>🥈 2nd</strong></td>
+      <td align="center" width="140"><strong>🥈 2nd / 81</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.kaggle.com/competitions/cyrillic-morphological-induction-grand-challenge"><strong>Cyrillic Morphological Induction Grand Challenge 2026</strong></a>
+        <br />
+        <sub>Kaggle · Private Leaderboard</sub>
+      </td>
+      <td align="center"><strong>🥉 3rd / 66</strong></td>
     </tr>
     <tr>
       <td>
@@ -38,7 +46,7 @@
         <br />
         <sub>Phase 3 · Offline Hackathon</sub>
       </td>
-      <td align="center"><strong>18th</strong></td>
+      <td align="center"><strong>18th / 33</strong></td>
     </tr>
     <tr>
       <td>
@@ -46,7 +54,7 @@
         <br />
         <sub>Phase 2 · Online Qualifier</sub>
       </td>
-      <td align="center"><strong>29th</strong></td>
+      <td align="center"><strong>29th / 1,087</strong></td>
     </tr>
   </tbody>
 </table>
