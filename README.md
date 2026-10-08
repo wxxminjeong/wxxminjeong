@@ -75,12 +75,12 @@
 
 <br />
 
-<div align="center">
+<div align="left">
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wxxminjeong&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/wxxminjeong"
-  width="600"
-  height="300"
+  width="400"
+  height="200"
 />
 </a>
   <br /><br />
