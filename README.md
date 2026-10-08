@@ -76,13 +76,12 @@
 <br />
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&amp;utm_source=wxxminjeong&amp;utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/wxxminjeong?pet-id=789414730985988887"
-      width="600"
-      height="120"
-      alt="My GitAnimals companion walking across the README"
-    />
-  </a>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wxxminjeong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/wxxminjeong"
+  width="600"
+  height="300"
+/>
+</a>
   <br /><br />
 </div>
