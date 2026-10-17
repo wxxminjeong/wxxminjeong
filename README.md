@@ -1,16 +1,16 @@
 <div align="center">
   <br />
 
-  <h1>Woomin Jeong</h1>
+  <h2>Woomin Jeong</h2>
   <p><samp>Machine Learning Engineer · AI Research</samp></p>
-  <p><sub><sub>정우민 &nbsp;·&nbsp; Hanbat National University</sub></sub></p>
-
   <p>
-    <sub><sub>
+    <sub><small>
+      정우민 &nbsp;·&nbsp; Hanbat National University
+      <br />
       <a href="https://www.kaggle.com/woominyo">Kaggle</a>
       &nbsp;·&nbsp;
       <a href="https://dacon.io/myprofile/462812/home">DACON</a>
-    </sub></sub>
+    </small></sub>
   </p>
 
   <br />
@@ -21,8 +21,8 @@
 <table>
   <thead>
     <tr>
-      <th align="left"><sub>Competition / Stage</sub></th>
-      <th align="center"><sub>Rank / Teams</sub></th>
+      <th align="left">Competition / Stage</th>
+      <th align="center">Rank / Teams</th>
     </tr>
   </thead>
   <tbody>
@@ -32,15 +32,15 @@
         <br />
         <sub>Track 2 · Landslide Detection and Risk Assessment</sub>
       </td>
-      <td align="center" width="150"><strong>🥈 2nd</strong> <sub>/ 81</sub></td>
+      <td align="center" width="160"><strong>🥈 2nd / 81</strong></td>
     </tr>
     <tr>
       <td>
         <a href="https://www.kaggle.com/competitions/kaggriculture"><strong>Kaggriculture</strong></a>
         <br />
-        <sub>Kaggle · Featured Simulation · Silver Medal (Top 0.5%)</sub>
+        <sub>Kaggle · Private Leaderboard</sub>
       </td>
-      <td align="center"><strong>🥈 44th</strong> <sub>/ 10,148</sub></td>
+      <td align="center"><strong>🥈 44th / 10,148</strong></td>
     </tr>
     <tr>
       <td>
@@ -48,7 +48,7 @@
         <br />
         <sub>Kaggle · Private Leaderboard</sub>
       </td>
-      <td align="center"><strong>3rd</strong> <sub>/ 66</sub></td>
+      <td align="center"><strong>3rd / 66</strong></td>
     </tr>
     <tr>
       <td>
@@ -56,7 +56,7 @@
         <br />
         <sub>Phase 3 · Offline Hackathon</sub>
       </td>
-      <td align="center"><strong>18th</strong> <sub>/ 33</sub></td>
+      <td align="center"><strong>18th / 33</strong></td>
     </tr>
     <tr>
       <td>
@@ -64,7 +64,7 @@
         <br />
         <sub>Phase 2 · Online Qualifier</sub>
       </td>
-      <td align="center"><strong>29th</strong> <sub>/ 1,087</sub></td>
+      <td align="center"><strong>29th / 1,087</strong></td>
     </tr>
   </tbody>
 </table>
@@ -73,21 +73,15 @@
 
 ### Publications
 
-<p>
-  <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173"><strong>A Study on Downlink Image Transmission Using Super-Resolution in Low Earth Orbit Satellite Networks</strong></a>
-  <br />
-  <sub>KICS Summer Conference · June 2023 · pp. 564–565</sub>
-</p>
+**[A Study on Downlink Image Transmission Using Super-Resolution in Low Earth Orbit Satellite Networks](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11487173)**  
+<sub>KICS Summer Conference · June 2023 · pp. 564–565</sub>
 
 <br />
 
 ### Projects
 
-<p>
-  <a href="https://www.roblox.com/games/97566754394912/Poly-Survivor"><strong>Poly Survivor</strong></a>
-  <br />
-  <sub>Roblox</sub>
-</p>
+**[Poly Survivor](https://www.roblox.com/games/97566754394912/Poly-Survivor)**  
+<sub>Roblox</sub>
 
 <br />
 
