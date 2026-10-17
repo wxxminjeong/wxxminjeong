@@ -2,7 +2,7 @@
   <br />
 
   <h1>Woomin Jeong</h1>
-  <p><strong><samp>Machine Learning Engineer · AI Research</samp></strong></p>
+  <p><samp>Machine Learning Engineer · AI Research</samp></p>
   <p><sub>정우민 &nbsp;·&nbsp; Hanbat National University</sub></p>
 
   <p>
