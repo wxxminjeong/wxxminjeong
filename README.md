@@ -36,6 +36,14 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.kaggle.com/competitions/kaggriculture"><strong>Kaggriculture</strong></a>
+        <br />
+        <sub>Kaggle · Private Leaderboard</sub>
+      </td>
+      <td align="center"><strong>🥈 44th / 10,148</strong></td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.kaggle.com/competitions/cyrillic-morphological-induction-grand-challenge"><strong>Cyrillic Morphological Induction Grand Challenge 2026</strong></a>
         <br />
         <sub>Kaggle · Private Leaderboard</sub>
