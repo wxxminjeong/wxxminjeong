@@ -3,14 +3,14 @@
 
   <h1>Woomin Jeong</h1>
   <p><samp>Machine Learning Engineer · AI Research</samp></p>
-  <p><sub>정우민 &nbsp;·&nbsp; Hanbat National University</sub></p>
+  <p><sub><sub>정우민 &nbsp;·&nbsp; Hanbat National University</sub></sub></p>
 
   <p>
-    <sub>
+    <sub><sub>
       <a href="https://www.kaggle.com/woominyo">Kaggle</a>
       &nbsp;·&nbsp;
       <a href="https://dacon.io/myprofile/462812/home">DACON</a>
-    </sub>
+    </sub></sub>
   </p>
 
   <br />
