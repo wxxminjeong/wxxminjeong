@@ -44,7 +44,7 @@
       <td>
         <a href="https://www.kaggle.com/competitions/rsna-knee-abnormality-detection"><strong>RSNA Knee Abnormality Detection</strong></a>
         <br />
-        <sub>Kaggle · Silver Medal</sub>
+        <sub>Kaggle · Private Leaderboard</sub>
       </td>
       <td align="center"><strong>🥈 217th / 6,425</strong> (3.4%)</td>
     </tr>
