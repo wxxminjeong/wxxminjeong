@@ -25,12 +25,12 @@
   </thead>
   <tbody>
     <tr>
-      <td width="600">
+      <td width="500">
         <a href="https://aifactory.space/ko/competitions/9305"><strong>2026 National Park Satellite Monitoring AI Challenge</strong></a>
         <br />
         <sub>Track 2 · Landslide Detection and Risk Assessment</sub>
       </td>
-      <td align="center" width="170"><strong>🥈 2nd / 81</strong></td>
+      <td align="center" width="270"><strong>🥈 2nd / 81</strong> (2.5%)</td>
     </tr>
     <tr>
       <td>
@@ -38,7 +38,7 @@
         <br />
         <sub>Kaggle · Private Leaderboard</sub>
       </td>
-      <td align="center"><strong>🥈 44th / 10,148</strong></td>
+      <td align="center"><strong>🥈 44th / 10,148</strong> (0.4%)</td>
     </tr>
     <tr>
       <td>
@@ -46,7 +46,7 @@
         <br />
         <sub>Kaggle · Silver Medal</sub>
       </td>
-      <td align="center"><strong>🥈 217th / 6,425</strong></td>
+      <td align="center"><strong>🥈 217th / 6,425</strong> (3.4%)</td>
     </tr>
     <tr>
       <td>
@@ -54,7 +54,7 @@
         <br />
         <sub>Kaggle · Private Leaderboard</sub>
       </td>
-      <td align="center"><strong>3rd / 66</strong></td>
+      <td align="center"><strong>3rd / 66</strong> (4.5%)</td>
     </tr>
     <tr>
       <td>
@@ -62,7 +62,7 @@
         <br />
         <sub>Phase 3 · Offline Hackathon</sub>
       </td>
-      <td align="center"><strong>18th / 33</strong></td>
+      <td align="center"><strong>18th / 33</strong> (54.5%)</td>
     </tr>
     <tr>
       <td>
@@ -70,7 +70,7 @@
         <br />
         <sub>Phase 2 · Online Qualifier</sub>
       </td>
-      <td align="center"><strong>29th / 1,087</strong></td>
+      <td align="center"><strong>29th / 1,087</strong> (2.7%)</td>
     </tr>
   </tbody>
 </table>
