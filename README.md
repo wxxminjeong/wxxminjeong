@@ -62,7 +62,7 @@
         <br />
         <sub>Phase 3 · Offline Hackathon</sub>
       </td>
-      <td align="center"><strong>18th / 33</strong> (54.5%)</td>
+      <td align="center"><strong>18th / 33</strong></td>
     </tr>
     <tr>
       <td>
