@@ -3,14 +3,12 @@
 
   <h2>Woomin Jeong</h2>
   <p><sub>정우민<br />Hanbat National University</sub></p>
-  <p><samp>Machine Learning Engineer · AI Research</samp></p>
+  <p>Machine Learning Engineer · AI Research</p>
 
   <p>
-    <sub>
-      <a href="https://www.kaggle.com/woominyo">Kaggle</a>
-      &nbsp;·&nbsp;
-      <a href="https://dacon.io/myprofile/462812/home">DACON</a>
-    </sub>
+    <a href="https://www.kaggle.com/woominyo">Kaggle</a>
+    &nbsp;·&nbsp;
+    <a href="https://dacon.io/myprofile/462812/home">DACON</a>
   </p>
 
   <br />
@@ -21,8 +19,8 @@
 <table>
   <thead>
     <tr>
-      <th align="left">Competition / Stage</th>
-      <th align="center">Rank / Teams</th>
+      <th align="left" scope="col">Competition / Stage</th>
+      <th align="center" scope="col">Rank / Teams</th>
     </tr>
   </thead>
   <tbody>
@@ -32,7 +30,7 @@
         <br />
         <sub>Track 2 · Landslide Detection and Risk Assessment</sub>
       </td>
-      <td align="center" width="140"><strong>🥈 2nd / 81</strong></td>
+      <td align="center" width="170"><strong>🥈 2nd / 81</strong></td>
     </tr>
     <tr>
       <td>
@@ -41,6 +39,14 @@
         <sub>Kaggle · Private Leaderboard</sub>
       </td>
       <td align="center"><strong>🥈 44th / 10,148</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.kaggle.com/competitions/rsna-knee-abnormality-detection"><strong>RSNA Knee Abnormality Detection</strong></a>
+        <br />
+        <sub>Kaggle · Silver Medal</sub>
+      </td>
+      <td align="center"><strong>🥈 217th / 6,425</strong></td>
     </tr>
     <tr>
       <td>
@@ -86,12 +92,12 @@
 <br />
 
 <div align="left">
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wxxminjeong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/wxxminjeong"
-  width="400"
-  height="200"
-/>
-</a>
-  <br /><br />
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wxxminjeong&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/wxxminjeong"
+      alt="GitAnimals farm"
+      width="400"
+      height="200"
+    />
+  </a>
 </div>
