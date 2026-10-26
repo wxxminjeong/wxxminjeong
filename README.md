@@ -36,7 +36,7 @@
       <td>
         <a href="https://www.kaggle.com/competitions/kaggriculture"><strong>Kaggriculture</strong></a>
         <br />
-        <sub>Kaggle · Private Leaderboard</sub>
+        <sub>Kaggle · Featured Simulation Competition</sub>
       </td>
       <td align="center"><strong>🥈 44th / 10,148</strong> (0.4%)</td>
     </tr>
@@ -44,7 +44,7 @@
       <td>
         <a href="https://www.kaggle.com/competitions/rsna-knee-abnormality-detection"><strong>RSNA Knee Abnormality Detection</strong></a>
         <br />
-        <sub>Kaggle · Private Leaderboard</sub>
+        <sub>Kaggle · Radiological Society of North America · Research Code Competition</sub>
       </td>
       <td align="center"><strong>🥈 217th / 6,425</strong> (3.4%)</td>
     </tr>
@@ -52,7 +52,7 @@
       <td>
         <a href="https://www.kaggle.com/competitions/cyrillic-morphological-induction-grand-challenge"><strong>Cyrillic Morphological Induction Grand Challenge 2026</strong></a>
         <br />
-        <sub>Kaggle · Private Leaderboard</sub>
+        <sub>Kaggle · Community Prediction Competition</sub>
       </td>
       <td align="center"><strong>3rd / 66</strong> (4.5%)</td>
     </tr>
