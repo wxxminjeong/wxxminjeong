@@ -91,6 +91,11 @@
 
 <br />
 
+**[WX CRUSHER](https://github.com/wxxminjeong/WX_CRUSHER)**  
+<sub>A digital distortion plugin (VST3) with three stages you can control separately: <strong>Drive</strong>, <strong>Bitcrush</strong> and <strong>Clipper</strong>.</sub>
+
+<br />
+
 <div align="left">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wxxminjeong&utm_content=farm">
     <img
