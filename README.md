@@ -88,12 +88,9 @@
 
 **[Poly Survivor](https://www.roblox.com/games/97566754394912/Poly-Survivor)**  
 <sub>Roblox</sub>
-
 <br />
-
 **[WX CRUSHER](https://github.com/wxxminjeong/WX_CRUSHER)**  
 <sub>A digital distortion plugin (VST3) with three stages you can control separately: <strong>Drive</strong>, <strong>Bitcrush</strong> and <strong>Clipper</strong>.</sub>
-
 <br />
 
 <div align="left">
