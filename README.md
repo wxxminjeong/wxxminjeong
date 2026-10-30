@@ -48,7 +48,7 @@
         <br />
         <sub>Kaggle · Radiological Society of North America · Research Code Competition</sub>
       </td>
-      <td align="center"><strong>🥈 217th / 6,425</strong> <sub>(3.4%)</sub></td>
+      <td align="center"><strong>🥈 209th / 6,299</strong> <sub>(3.3%)</sub></td>
     </tr>
     <tr>
       <td>
