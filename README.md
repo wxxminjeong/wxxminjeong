@@ -52,14 +52,6 @@
     </tr>
     <tr>
       <td>
-        <a href="https://www.kaggle.com/competitions/cyrillic-morphological-induction-grand-challenge"><strong>Cyrillic Morphological Induction Grand Challenge 2026</strong></a>
-        <br />
-        <sub>Kaggle · Community Prediction Competition</sub>
-      </td>
-      <td align="center"><strong>3rd / 66</strong> <sub>(4.5%)</sub></td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://dacon.io/competitions/official/236767/overview/description"><strong>Aimers 9기 : 투구 제구 성공 확률 예측 AI 오프라인 해커톤</strong></a>
         <br />
         <sub>Phase 3 · Offline Hackathon</sub>
@@ -73,6 +65,14 @@
         <sub>Phase 2 · Online Qualifier</sub>
       </td>
       <td align="center"><strong>29th / 1,087</strong> <sub>(2.7%)</sub></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.kaggle.com/competitions/cyrillic-morphological-induction-grand-challenge"><strong>Cyrillic Morphological Induction Grand Challenge 2026</strong></a>
+        <br />
+        <sub>Kaggle · Community Prediction Competition</sub>
+      </td>
+      <td align="center"><strong>3rd / 66</strong> <sub>(4.5%)</sub></td>
     </tr>
   </tbody>
 </table>
