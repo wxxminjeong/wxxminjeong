@@ -32,7 +32,7 @@
         <br />
         <sub>Track 2 · Landslide Detection and Risk Assessment</sub>
       </td>
-      <td align="center" width="270"><strong>🥈 2nd / 81</strong> (2.5%)</td>
+      <td align="center" width="270"><strong>🥈 2nd / 81</strong> <sub>(2.5%)</sub></td>
     </tr>
     <tr>
       <td>
@@ -40,7 +40,7 @@
         <br />
         <sub>Kaggle · Featured Simulation Competition</sub>
       </td>
-      <td align="center"><strong>🥈 44th / 10,148</strong> (0.4%)</td>
+      <td align="center"><strong>🥈 44th / 10,148</strong> <sub>(0.4%)</sub></td>
     </tr>
     <tr>
       <td>
@@ -48,7 +48,7 @@
         <br />
         <sub>Kaggle · Radiological Society of North America · Research Code Competition</sub>
       </td>
-      <td align="center"><strong>🥈 217th / 6,425</strong> (3.4%)</td>
+      <td align="center"><strong>🥈 217th / 6,425</strong> <sub>(3.4%)</sub></td>
     </tr>
     <tr>
       <td>
@@ -56,7 +56,7 @@
         <br />
         <sub>Kaggle · Community Prediction Competition</sub>
       </td>
-      <td align="center"><strong>3rd / 66</strong> (4.5%)</td>
+      <td align="center"><strong>3rd / 66</strong> <sub>(4.5%)</sub></td>
     </tr>
     <tr>
       <td>
@@ -72,7 +72,7 @@
         <br />
         <sub>Phase 2 · Online Qualifier</sub>
       </td>
-      <td align="center"><strong>29th / 1,087</strong> (2.7%)</td>
+      <td align="center"><strong>29th / 1,087</strong> <sub>(2.7%)</sub></td>
     </tr>
   </tbody>
 </table>
@@ -90,14 +90,11 @@
 
 **[Poly Survivor](https://www.roblox.com/games/97566754394912/Poly-Survivor)**  
 <sub>Roblox</sub>
-<br />
+
 **[WX CRUSHER](https://github.com/wxxminjeong/WX_CRUSHER)**  
 <sub>A digital distortion plugin (VST3) with three stages you can control separately: <strong>Drive</strong>, <strong>Bitcrush</strong> and <strong>Clipper</strong>.</sub>
 
-
 <br />
-<br />
-
 
 <div align="left">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wxxminjeong&utm_content=farm">
